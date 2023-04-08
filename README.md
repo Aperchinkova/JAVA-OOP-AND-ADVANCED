@@ -1,8 +1,2 @@
 # SoftUni GitHub Demo
-This is demo repository for a lecture.
-
-It was created by Aya Perchinkova.
-
-It is not super simple.:((((((((((((((((((
-
-This change is in a branch!
+ SOOO I UPLOADED HERE WAY TO LATE THAT IT WAS RECOMMENDED,SORRY GUYS :)
